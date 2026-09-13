@@ -6,6 +6,9 @@ The original implementation for SIMAS. Good for general purpose or web developme
 [SIMASJS](https://www.github.com/turrnut/simas)
 
 ## CMAS
-Interpreter written in C. Currently in development, Used for low level programming. <br>
-[CMAS](https://www.github.com/tuvalutorture/SIMAS)
+Interpreter written in C. Used for low level programming. <br>
+[CMAS](https://www.github.com/turrnutorg/CMAS)
 
+## Objective-CMAS
+SIMAS brought to Objective C. Low level performance with an extensible architecture and compatibility. <br>
+[Objective-CMAS](https://www.github.com/tuvalutorture/SIMAS)
